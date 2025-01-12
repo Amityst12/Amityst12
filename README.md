@@ -13,3 +13,9 @@
 ### ⚡ Fun Facts
 - 🕹️ I love playing games and developing apps.  
 - 🌱 Currently learning: Advanced API integrations.
+
+
+## 👨‍🏫 Education
+- Second Year Computer Science Student at HIT (Holon Institute of Technology).
+- Studied Computer Science from 10th to 12th grade, graduating with outstanding success.
+- Graduate of the Operational Communications Technician Course in the IDF.
