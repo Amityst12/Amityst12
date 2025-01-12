@@ -11,8 +11,9 @@
 - APIs: `Discord Bot API`, `Riot API`
 
 ### ⚡ Fun Facts
-- 🕹️ I love playing games and developing apps.  
-- 🌱 Currently learning: Advanced API integrations.
+- 🕹️ I love playing games and developing apps.
+- I currently am one of the best TFT(Teamfight Tactics) players in Europe.
+- Currently learning: Advanced API integrations.
 
 
 ### 👨‍🏫 Education
