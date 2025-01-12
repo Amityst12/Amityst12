@@ -25,3 +25,5 @@
 [![steam](https://img.icons8.com/fluent/32/000000/steam.png)](https://steamcommunity.com/profiles/76561199248933798/)
 [![discord](https://img.icons8.com/color/32/000000/discord-logo.png)](https://discordapp.com/users/164734809292144640)
 [![email](https://img.icons8.com/material-rounded/33/eeeeee/filled-message.png)](mailto:amityst12@gmail.com)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amityst12&layout=compact)
