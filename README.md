@@ -6,7 +6,7 @@
 📫 Reach me: amityst12@gmail.com  
 
 ### 🛠️ Tech Stack
-- Programming: `Python`, `C#`, `JavaScript`
+- Programming: `Python`, `C#`, `JavaScript`, `C`, `C++`
 - Projects: `Pilbot`, `Gluglushooter`, `Nadlanplan`
 - APIs: `Discord Bot API`, `Riot API`
 
