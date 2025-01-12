@@ -22,6 +22,6 @@
 
  ## 🔗 Socials
 
- [![steam](https://img.icons8.com/fluent/32/000000/steam.png)]([https://steamcommunity.com/id/LooLzzz](https://steamcommunity.com/profiles/76561199248933798/))
+[![steam](https://img.icons8.com/fluent/32/000000/steam.png)]([https://steamcommunity.com/id/itayamit])
 [![discord](https://img.icons8.com/color/32/000000/discord-logo.png)](https://discordapp.com/users/164734809292144640)
 [![email](https://img.icons8.com/material-rounded/33/eeeeee/filled-message.png)](mailto:amityst12@gmail.com)
