@@ -6,14 +6,14 @@
 📫 Reach me: amityst12@gmail.com  
 
 ### 🛠️ Tech Stack
-- Programming: `Python`, `C#`, `JavaScript`, `C`, `C++`
-- Projects: `Pilbot`, `Gluglushooter`, `Nadlanplan`
+- Programming: `Python`, `C#`, `JavaScript`, `C`, `React`,`TailwindCSS`
+- Projects: `Pilbot`, `Gluglushooter`, `Nadlanplan` ,`Porfolio`
 - APIs: `Discord Bot API`, `Riot API`
 
 ### ⚡ Fun Facts
 - 🕹️ I love playing games and developing apps.
 - I currently am one of the best TFT(Teamfight Tactics) players in Europe.
-- Currently learning: Advanced API integrations.
+- Currently learning: React.
 
 
 ### 👨‍🏫 Education
